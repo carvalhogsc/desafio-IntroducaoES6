@@ -1,0 +1,16 @@
+{
+  "name": "Exercicio1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/guilhermescarvalho/desafio-IntroducaoES6.git",
+  "author": "<carvalhogsc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7"
+  },
+  "scripts": {
+    "dev": "babel ./main.js -o ./bundle.js -w"
+  }
+}
