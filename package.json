@@ -12,6 +12,7 @@
   },
   "scripts": {
     "dev1": "babel ./ex1.js -o ./bundle.js -w",
-    "dev2": "babel ./ex2.js -o ./bundle.js -w"
+    "dev2": "babel ./ex2.js -o ./bundle.js -w",
+    "dev3": "babel ./ex3.js -o ./bundle.js -w"
   }
 }
