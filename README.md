@@ -15,6 +15,9 @@ Para executar o exercicio 3
 Para executar o exercicio 4
     yarn dev4
 
+Para executar o exercicio 5
+    yarn dev5
+
 Todos os resultados estão no console do browser.
 
 

@@ -15,6 +15,7 @@
     "dev1": "babel ./ex1.js -o ./bundle.js -w",
     "dev2": "babel ./ex2.js -o ./bundle.js -w",
     "dev3": "babel ./ex3.js -o ./bundle.js -w",
-    "dev4": "babel ./ex4.js -o ./bundle.js -w"
+    "dev4": "babel ./ex4.js -o ./bundle.js -w",
+    "dev5": "babel ./ex5.js -o ./bundle.js -w"
   }
 }
