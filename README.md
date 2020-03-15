@@ -9,4 +9,12 @@ Para executar o exercicio 1
 Para executar o exercicio 2
     yarn dev2
 
+Para executar o exercicio 3
+    yarn dev3
+
+Para executar o exercicio 4
+    yarn dev4
+
+Todos os resultados estão no console do browser.
+
 
